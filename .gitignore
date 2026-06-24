@@ -1,0 +1,6 @@
+# Private — do not push
+VEDA.json
+
+# System
+.DS_Store
+*.log
