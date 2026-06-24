@@ -41,6 +41,14 @@ It is built specifically for competitive exam aspirants (UPSC, SSC, Banking, Sta
 
 ---
 
+![VEDA Workflow](assets/VEDA_01.png)
+![VEDA Weekly Quiz](assets/VEDA_02.png)
+![VEDA Telegram Bot](assets/VEDA_BOT_01.png)
+![VEDA Telegram Quiz](assets/VEDA_BOT_QUIZ.png)
+![VEDA Google Sheet Database](assets/VEDA_EXCEL.png)
+
+---
+
 ## How It Works
 
 VEDA runs on two separate schedules:
